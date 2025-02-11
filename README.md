@@ -8,7 +8,8 @@ This repository contains my learning progress for the following two courses taug
 <br>
 
 #### Course Content - Computational Finance
-03- Option Pricing and Simulation in Python   emsp;emsp; (Completed)   <br>
+<pre>
+03- Option Pricing and Simulation in Python      (Completed)   <br>
 04- Implied Volatility                                         <br>
 05- Jump Processes                                             <br>
 06- Affine Jump Diffusion Processes                            <br>
@@ -18,6 +19,7 @@ This repository contains my learning progress for the following two courses taug
 11- Hedging and Monte Carlo Sensitivities        (In Progress) <br>
 12- Forward Start Options and Model of Bates                   <br>
 13- Exotic Derivatives                           (In Progress) <br>
+</pre>
 
 #### Course Content - Financial Engineering Interest Rates and XVA
 03-The HJM Framework                             (Completed)   <br>
