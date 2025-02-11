@@ -1,12 +1,12 @@
 # Modelling-and-Derivative-Pricing
 
 This repository contains my learning progress for the following two courses on Modelling and Derivative Pricing
-1. # Computational Finance
+1. #### Computational Finance
     - https://www.youtube.com/watch?v=IRMn6JQvU8A&list=PL6zzGYGhbWrPaI-op1UfNl0uDglxdkaOB
-2. # Financial Engineering Interest Rates and XVA
+2. #### Financial Engineering Interest Rates and XVA
     - https://www.youtube.com/watch?v=oX7iyvZsAak&list=PL6zzGYGhbWrMpjEKDtnrHWyIj-oVLKCYD
   
-# Course Content - Computational Finance
+#### Course Content - Computational Finance
 03- Option Pricing and Simulation in Python      (Completed)
 04- Implied Volatility
 05- Jump Processes
@@ -18,4 +18,4 @@ This repository contains my learning progress for the following two courses on M
 12- Forward Start Options and Model of Bates
 13- Exotic Derivatives                           (In Progress)
 
-# Course Content - Financial Engineering Interest Rates and XVA
+#### Course Content - Financial Engineering Interest Rates and XVA
