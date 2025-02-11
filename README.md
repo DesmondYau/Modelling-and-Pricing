@@ -6,10 +6,9 @@ This repository contains my learning progress for the following two courses taug
 2. #### Financial Engineering Interest Rates and XVA
     - https://www.youtube.com/watch?v=oX7iyvZsAak&list=PL6zzGYGhbWrMpjEKDtnrHWyIj-oVLKCYD
 <br>
-<br>
 
 #### Course Content - Computational Finance
-03- Option Pricing and Simulation in Python      (Completed)   <br>
+03- Option Pricing and Simulation in Python<t><t><t><t>(Completed)   <br>
 04- Implied Volatility                                         <br>
 05- Jump Processes                                             <br>
 06- Affine Jump Diffusion Processes                            <br>
