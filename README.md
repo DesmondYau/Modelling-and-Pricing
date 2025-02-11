@@ -8,17 +8,18 @@ This repository contains my learning progress for the following two courses taug
 <br>
 
 #### Course Content - Computational Finance
-03- Option Pricing and Simulation in Python ----------------------(Completed)   <br>
-04- Implied Volatility                                                           <br>
-05- Jump Processes                                                               <br>
-06- Affine Jump Diffusion Processes                                              <br>
-07- Stochastic Volatility Models                                                 <br>
-09- Monte Carlo Simulation ---------------------------------------(Completed)   <br>
-10- Monte Carlo Simulation of the Heston Model                                   <br>
-11- Hedging and Monte Carlo Sensitivities ------------------------(In Progress) <br>
-12- Forward Start Options and Model of Bates                                     <br>
-13- Exotic Derivatives -------------------------------------------(In Progress) <br>
-
+<pre>
+03- Option Pricing and Simulation in Python                     (Completed)  
+04- Implied Volatility                                                           
+05- Jump Processes                                                               
+06- Affine Jump Diffusion Processes                                              
+07- Stochastic Volatility Models                                                 
+09- Monte Carlo Simulation                                      (Completed)   
+10- Monte Carlo Simulation of the Heston Model                                   
+11- Hedging and Monte Carlo Sensitivities                       (In Progress) 
+12- Forward Start Options and Model of Bates                                     
+13- Exotic Derivatives                                          (In Progress) 
+</pre>
 
 #### Course Content - Financial Engineering Interest Rates and XVA
 03-The HJM Framework                             (Completed)   <br>
