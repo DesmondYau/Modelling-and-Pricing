@@ -9,27 +9,29 @@ This repository contains my learning progress for the following two courses taug
 
 #### Course Content - Computational Finance
 <pre>
-03- Option Pricing and Simulation in Python                     (Completed)  
+03- Option Pricing and Simulation in Python ------------------ (Completed)  
 04- Implied Volatility                                                           
 05- Jump Processes                                                               
 06- Affine Jump Diffusion Processes                                              
 07- Stochastic Volatility Models                                                 
-09- Monte Carlo Simulation                                      (Completed)   
+09- Monte Carlo Simulation ----------------------------------- (Completed)   
 10- Monte Carlo Simulation of the Heston Model                                   
-11- Hedging and Monte Carlo Sensitivities                       (In Progress) 
+11- Hedging and Monte Carlo Sensitivities -------------------- (In Progress) 
 12- Forward Start Options and Model of Bates                                     
-13- Exotic Derivatives                                          (In Progress) 
+13- Exotic Derivatives --------------------------------------- (In Progress) 
 </pre>
 
 #### Course Content - Financial Engineering Interest Rates and XVA
-03-The HJM Framework                             (Completed)   <br>
-04-Yield Curve Dynamics under Short Rate         (In Progress) <br>
-05-Interest Rate Products                        (In Progress) <br>   
-06-Construction of Yield Curve and Multi-Curve                 <br>
-07-Pricing of Swaptions and Negative Interest Rates            <br>
-08-Mortgages and Prepayments                                   <br>
-09-Hybrid Models and Stochastic Interest Rates                 <br>
-10-Foreign Exchange (FX) and Inflation                         <br>
-11-Market Model and Convexity Adjustments                      <br>
-12-Valuation Adjustments- xVA (CVA,BCVA and FVA)               <br>        
-13-Value-at-Risk and Expected Shortfall                        <br>  
+<pre>
+03-The HJM Framework ----------------------------------------- (Completed)   
+04-Yield Curve Dynamics under Short Rate --------------------- (In Progress) 
+05-Interest Rate Products ------------------------------------ (In Progress)    
+06-Construction of Yield Curve and Multi-Curve                 
+07-Pricing of Swaptions and Negative Interest Rates            
+08-Mortgages and Prepayments                                   
+09-Hybrid Models and Stochastic Interest Rates                 
+10-Foreign Exchange (FX) and Inflation                         
+11-Market Model and Convexity Adjustments                      
+12-Valuation Adjustments- xVA (CVA,BCVA and FVA)                       
+13-Value-at-Risk and Expected Shortfall                          
+</pre>
