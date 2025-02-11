@@ -8,8 +8,8 @@ This repository contains my learning progress for the following two courses taug
 <br>
 
 #### Course Content - Computational Finance
-03- Option Pricing and Simulation in Python  &nbsp;&nbsp;&nbsp;    (Completed)   <br>
-04- Implied Volatility                                         <br>
+03- Option Pricing and Simulation in Python $~~~~~~~~~~~~~~~~~~~~$ (Completed)   <br>
+04- Implied Volatility $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$               <br>
 05- Jump Processes                                             <br>
 06- Affine Jump Diffusion Processes                            <br>
 07- Stochastic Volatility Models                               <br>
