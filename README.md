@@ -7,8 +7,8 @@ This repository contains my learning progress for the following two courses on M
     - https://www.youtube.com/watch?v=oX7iyvZsAak&list=PL6zzGYGhbWrMpjEKDtnrHWyIj-oVLKCYD
   
 #### Course Content - Computational Finance
-03- Option Pricing and Simulation in Python      (Completed)
-04- Implied Volatility
+03- Option Pricing and Simulation in Python      (Completed) <br>
+04- Implied Volatility                                       <br>
 05- Jump Processes
 06- Affine Jump Diffusion Processes
 07- Stochastic Volatility Models
