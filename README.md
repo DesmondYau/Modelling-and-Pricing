@@ -1,4 +1,4 @@
-# Modelling-and-Derivative-Pricing
+# Modelling-and-Pricing
 
 This repository contains my learning progress for the following two courses taught by Professor Lech Grzelak on Modelling and Derivative Pricing
 1. #### Computational Finance
