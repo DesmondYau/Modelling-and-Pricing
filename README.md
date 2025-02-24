@@ -1,6 +1,6 @@
 # Modelling-and-Pricing
 
-This repository contains my learning progress for the following two courses taught by Professor Lech Grzelak on Modelling and Derivative Pricing
+This repository contains my learning progress for the following two courses taught by Professor Lech Grzelak on Modelling and Pricing
 1. #### Computational Finance
     - https://www.youtube.com/watch?v=IRMn6JQvU8A&list=PL6zzGYGhbWrPaI-op1UfNl0uDglxdkaOB
 2. #### Financial Engineering Interest Rates and XVA
