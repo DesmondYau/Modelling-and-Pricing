@@ -5,7 +5,6 @@
     - https://www.youtube.com/watch?v=IRMn6JQvU8A&list=PL6zzGYGhbWrPaI-op1UfNl0uDglxdkaOB
 - #### Financial Engineering Interest Rates and XVA
     - https://www.youtube.com/watch?v=oX7iyvZsAak&list=PL6zzGYGhbWrMpjEKDtnrHWyIj-oVLKCYD
-<br>
 
 #### Course Content - Computational Finance
 <pre>
