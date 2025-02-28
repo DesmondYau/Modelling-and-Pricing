@@ -37,8 +37,9 @@ This repository contains my learning progress for the following two courses taug
 </pre>
 
 <br>
-In addition, this repository contains my progress in financial modelling and pricing using the Python QuantLib library:
+In addition, I am also experimenting with the <b>Python QuantLib library</b> in financial modelling and pricing:
 <pre>
 10-Constructing a Spot Curve
 31-Modelling Callable Bonds
 </pre>
+Please note that some of the codes are from the book "Quantlib Python Cookbook"
