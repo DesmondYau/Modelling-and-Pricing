@@ -43,4 +43,4 @@ In addition, I am also experimenting with the <b>Python QuantLib library</b> in 
 10-Constructing a Spot Curve
 31-Modelling Callable Bonds
 </pre>
-Please note that some of the codes are from the book "Quantlib Python Cookbook"
+Please note that some of the codes are from the book "Quantlib Python Cookbook" by Luigi Ballabio and Goutham Balaraman
