@@ -1,9 +1,9 @@
 # Modelling-and-Pricing
 
-1. This repository contains my learning progress for the following two courses taught by Professor Lech Grzelak on Modelling and Pricing:
-- #### Computational Finance
+This repository contains my learning progress for the following two courses taught by Professor Lech Grzelak on Modelling and Pricing:
+1. #### Computational Finance
     - https://www.youtube.com/watch?v=IRMn6JQvU8A&list=PL6zzGYGhbWrPaI-op1UfNl0uDglxdkaOB
-- #### Financial Engineering Interest Rates and XVA
+2. #### Financial Engineering Interest Rates and XVA
     - https://www.youtube.com/watch?v=oX7iyvZsAak&list=PL6zzGYGhbWrMpjEKDtnrHWyIj-oVLKCYD
 
 #### Course Content - Computational Finance
@@ -36,7 +36,9 @@
 </pre>
 
 <br>
-2. In addition, I am also experimenting with the <b>Python QuantLib library</b> in financial modelling and pricing:
+In addition, I am also experimenting with the <b>Python QuantLib library</b> in financial modelling and pricing:
+
+#### Quantlib Experimentation
 <pre>
 10-Constructing a Spot Curve
 31-Modelling Callable Bonds
