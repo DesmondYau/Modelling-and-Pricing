@@ -31,7 +31,7 @@ This repository contains my learning progress for the following two courses taug
 09-Hybrid Models and Stochastic Interest Rates                 
 10-Foreign Exchange (FX) and Inflation                         
 11-Market Model and Convexity Adjustments                      
-12-Valuation Adjustments- xVA (CVA, BCVA and FVA)                       
+12-Valuation Adjustments- xVA (CVA, BCVA and FVA) ------------ (In Progress)                       
 13-Value-at-Risk and Expected Shortfall                          
 </pre>
 
